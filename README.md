@@ -1,4 +1,4 @@
-# Aarish Shaheen | Academic Portfolio
+# Mohd Aarish Shaheen | Academic Portfolio
 
 This repository contains the source code for my personal academic website and technical blog, hosted at [bertramwooster.github.io](https://bertramwooster.github.io). 
 
