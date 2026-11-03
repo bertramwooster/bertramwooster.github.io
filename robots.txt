@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://bertramwooster.github.iohttps://bertramwooster.github.io/sitemap.xml
